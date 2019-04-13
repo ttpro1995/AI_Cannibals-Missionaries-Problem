@@ -1,6 +1,6 @@
 import util
 def meow():
-    print 'keep calm and meow on'
+    print ('keep calm and meow on')
 
 def depthFirstSearch(problem):
     """
